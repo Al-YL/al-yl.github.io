@@ -9,7 +9,7 @@ contact: static
 
 # Footer
 footer:
-  credit: Credits
+  credit: 'This website is based on Jekyll theme <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>.'
   copyright: Y.-L. Zheng
   location: Shanghai
   
