@@ -1,1 +1,16 @@
-theme: jekyll-theme-cayman
+# Basic Setting
+title: "Y.-L. Zheng"
+name: "Yun-Liang Zheng"
+email: 
+url: 
+keywords: 
+description:
+contact: static
+
+# Footer
+footer:
+  credit: Credits
+  copyright: Y.-L. Zheng
+  location: Shanghai
+  
+#
