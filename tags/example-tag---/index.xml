@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Yunliang Zheng&#39;s Homepage</title>
-        <link>https://al-yl.github.io/</link>
-        <description>Recent content on Yunliang Zheng&#39;s Homepage</description>
+        <title>Example Tag--- on Yunliang Zheng&#39;s Homepage</title>
+        <link>https://al-yl.github.io/tags/example-tag---/</link>
+        <description>Recent content in Example Tag--- on Yunliang Zheng&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 13 Nov 2022 21:40:27 +0800</lastBuildDate><atom:link href="https://al-yl.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 13 Nov 2022 21:40:27 +0800</lastBuildDate><atom:link href="https://al-yl.github.io/tags/example-tag---/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
         <link>https://al-yl.github.io/page/about/</link>
         <pubDate>Sun, 13 Nov 2022 21:40:27 +0800</pubDate>
