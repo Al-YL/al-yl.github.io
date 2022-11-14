@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://al-yl.github.io/posts/about/</loc>
-    <lastmod>2022-11-13T21:40:27+08:00</lastmod>
-  </url><url>
-    <loc>https://al-yl.github.io/posts/hahaha/</loc>
-    <lastmod>2022-11-13T21:40:27+08:00</lastmod>
-  </url><url>
     <loc>https://al-yl.github.io/categories/</loc>
     <lastmod>2022-11-13T21:40:27+08:00</lastmod>
   </url><url>
@@ -21,6 +15,9 @@
     <lastmod>2022-11-13T21:40:27+08:00</lastmod>
   </url><url>
     <loc>https://al-yl.github.io/tags/</loc>
+    <lastmod>2022-11-13T21:40:27+08:00</lastmod>
+  </url><url>
+    <loc>https://al-yl.github.io/posts/about/</loc>
     <lastmod>2022-11-13T21:40:27+08:00</lastmod>
   </url><url>
     <loc>https://al-yl.github.io/</loc>
