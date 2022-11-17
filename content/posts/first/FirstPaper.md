@@ -20,13 +20,15 @@ In CGs, galaxy members frequently interact each other and are expected to form a
 
 ## The Catalogs of Compact Groups of Galaxies
 
-To study the properties of CGs, we select CGs in the Main Galaxy Sample of the Sloan Digital Sky Survey (SDSS). The SDSS Main Galaxy Sample (**SDSS DR14 Version**) contains $\sim 700,000$ nearby galaxies with redshift $z \le 0.2$ and $r$-band magnitude of $14.00 \le r \le 17.77$. 
+To study the properties of CGs, we select CGs in the Main Galaxy Sample of the Sloan Digital Sky Survey (SDSS). The SDSS Main Galaxy Sample is taken from [NYU-VAGC](http://sdss.physics.nyu.edu/vagc/). The original imaging and spectro files are avaliable [here](http://sdss.physics.nyu.edu/vagc-dr7/vagc2/). We select the Main Galaxy Sample that contains $\sim 700,000$ nearby galaxies with redshift $z \le 0.2$ and $r$-band magnitude of $14.00 \le r \le 17.77$, and update their redshift data to the version of SDSS DR14.
 
 Due to the [Fiber Collision Effect](https://www.sdss.org/dr16/algorithms/legacy_tiling/#FiberCollisions), not all of the galaxies have spectroscopic redshift, especially for the galaxies live in a higher number density region. The search for CGs is severely hindered by such effect.
 
-To reduce the incompleteness as much as possible, we take the complementary redshift measurements from GAMA and LAMOST datasets. The incompleteness has been reduced from $\sim 7$ % to $\sim 5$ %. And we constructed the largest and most complete CG catalogs to date. 
+To reduce the incompleteness as much as possible, we take the complementary redshift measurements from GAMA and LAMOST datasets. The incompleteness has been reduced from $\sim 7$ % to $\sim 5$ %. And we constructed the largest and most complete CG catalogs to date.
 
-Our samples include 6144 CGs with complete redshifts and 8022 CG candidates which might contain interlopers. For the CG candidates, there are three different kinds of of cases.
+See [this paper](https://ui.adsabs.harvard.edu/abs/2020ApJS..246...12Z/abstract) for more details in CG selection. Finally, our samples include 6128 CGs with complete redshifts and 8022 CG candidates which might contain interlopers. *The original catalog in contains 6144 CGs. However, we remove 16 CGs after a careful inspection of the spectroscopic data of all group members, where the spectroscopic redshifts of few member galaxies have been incorrectly reused during the CG construction.* These catalogs are avaliable here: [Old Version (2020.01.02)](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJS/246/12); [Latest Version (2021.11.05)](https://github.com/Al-YL/CompactGroups).
+
+For the CG candidates, there are three different kinds of of cases.
 
 ![](/posts/first/Case.png)
 
