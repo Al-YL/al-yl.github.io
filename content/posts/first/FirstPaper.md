@@ -1,7 +1,7 @@
 ---
 title: "Compact Groups of Galaxies in SDSS, GAMA, and LAMOST"
 date: 2022-11-13T21:40:27+08:00
-# image: "/posts/first/QuiJWST.jpg"
+image: "/posts/first/ccgs.png"
 categories:
     - Galaxy Groups
 tags:
