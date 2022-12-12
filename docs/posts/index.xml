@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Yunliang Zheng&#39;s Homepage</title>
-        <link>https://al-yl.github.io/</link>
-        <description>Recent content on Yunliang Zheng&#39;s Homepage</description>
+        <title>Posts on Yunliang Zheng&#39;s Homepage</title>
+        <link>https://al-yl.github.io/posts/</link>
+        <description>Recent content in Posts on Yunliang Zheng&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 13 Nov 2022 21:40:27 +0800</lastBuildDate><atom:link href="https://al-yl.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 13 Nov 2022 21:40:27 +0800</lastBuildDate><atom:link href="https://al-yl.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Compact Groups of Galaxies in SDSS, GAMA, and LAMOST</title>
         <link>https://al-yl.github.io/posts/first/firstpaper/</link>
         <pubDate>Sun, 13 Nov 2022 21:40:27 +0800</pubDate>
@@ -176,22 +176,6 @@
         <guid>https://al-yl.github.io/posts/about/about/</guid>
         <description>&lt;img src="https://al-yl.github.io/posts/about/underconstruction.png" alt="Featured image of post This website is still under-construction !" /&gt;&lt;p&gt;This website is still under-construction !!&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>https://al-yl.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://al-yl.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://al-yl.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://al-yl.github.io/search/</guid>
-        <description></description>
         </item>
         
     </channel>
