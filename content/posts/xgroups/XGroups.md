@@ -1,6 +1,6 @@
 ---
 title: "Measuring the X-ray luminosities of DESI groups from eFEDS"
-date: 2023-10-17T16:05:27+08:00
+date: 2023-10-17T01:05:27+08:00
 image: "/posts/xgroups/desierosita.png"
 categories:
     - Galaxy Groups
