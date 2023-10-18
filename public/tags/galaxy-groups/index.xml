@@ -12,7 +12,24 @@
         <pubDate>Wed, 18 Oct 2023 16:05:27 +0800</pubDate>
         
         <guid>https://al-yl.github.io/posts/xgroups/xgroups/</guid>
-        <description>&lt;img src="https://al-yl.github.io/posts/xgroups/desierosita.png" alt="Featured image of post Measuring the X-ray luminosities of DESI groups from eFEDS" /&gt;</description>
+        <description>&lt;img src="https://al-yl.github.io/posts/xgroups/desierosita.png" alt="Featured image of post Measuring the X-ray luminosities of DESI groups from eFEDS" /&gt;&lt;p&gt;A galaxy group is a concentration of galaxies assumed to be embedded within an extended dark matter halo, providing cosmological probes of the spatial distribution and growth history of large-scale structure.&lt;/p&gt;
+&lt;p&gt;We use the eROSITA Final Equatorial-Depth Survey (&lt;strong&gt;eFEDS&lt;/strong&gt;) to measure the rest-frame 0.1–2.4 keV band X-ray luminosities of ~ 600,000 DESI groups.&lt;/p&gt;
+&lt;h2 id=&#34;desi-group-catalog&#34;&gt;DESI Group Catalog&lt;/h2&gt;
+&lt;p&gt;The group catalog is taken from &lt;a class=&#34;link&#34; href=&#34;https://iopscience.iop.org/article/10.3847/1538-4357/abddb2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Yang et al. (2021)&lt;/a&gt;, which extended the halo-based group finder developed by &lt;a class=&#34;link&#34; href=&#34;http://dx.doi.org/10.1111/j.1365-2966.2005.08560.x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Yang et al. (2005)&lt;/a&gt; and applied it to the DESI Legacy Imaging Surveys.&lt;/p&gt;
+&lt;p&gt;This group catalogue has been further updated based on the galaxy catalogue, which has been updated to DR9, containing five-band photometries ($g$, $r$, $z$, W1, W2), with a sky coverage of ∼ 100 million groups with ∼ 120 million galaxy members having ∼ 18200 deg$^2$.&lt;/p&gt;
+&lt;p&gt;The halo mass ($M_h$) of each group has been estimated based on abundance matching between the total group luminosity and ~ 600,000 DESI groups overlaid on eFEDS footprint.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/xgroups/basicstat.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;These groups span a large redshift range of $0.0 \le z_g \le 1.0$ and (group) halo mass of $10^{10.76}h^{-1}M_\odot \le M_h \le 10^{15.0}h^{-1}M_\odot$.&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Compact Groups of Galaxies in SDSS, GAMA, and LAMOST</title>
