@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Example Category on Yunliang Zheng&#39;s Homepage</title>
+        <link>https://al-yl.github.io/categories/example-category/</link>
+        <description>Recent content in Example Category on Yunliang Zheng&#39;s Homepage</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language>
+        <lastBuildDate>Sun, 13 Nov 2022 21:40:27 +0800</lastBuildDate><atom:link href="https://al-yl.github.io/categories/example-category/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>This website is still under-construction !</title>
+        <link>https://al-yl.github.io/posts/about/about/</link>
+        <pubDate>Sun, 13 Nov 2022 21:40:27 +0800</pubDate>
+        
+        <guid>https://al-yl.github.io/posts/about/about/</guid>
+        <description>&lt;img src="https://al-yl.github.io/posts/about/underconstruction.png" alt="Featured image of post This website is still under-construction !" /&gt;&lt;p&gt;This website is still under-construction !!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
