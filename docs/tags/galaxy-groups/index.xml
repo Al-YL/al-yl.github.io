@@ -6,7 +6,56 @@
         <description>Recent content in Galaxy Groups on Yunliang Zheng&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 13 Nov 2022 21:40:27 +0800</lastBuildDate><atom:link href="https://al-yl.github.io/tags/galaxy-groups/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 17 Oct 2023 01:05:27 +0800</lastBuildDate><atom:link href="https://al-yl.github.io/tags/galaxy-groups/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Measuring the X-ray luminosities of DESI groups from eFEDS</title>
+        <link>https://al-yl.github.io/posts/xgroups/xgroups/</link>
+        <pubDate>Tue, 17 Oct 2023 01:05:27 +0800</pubDate>
+        
+        <guid>https://al-yl.github.io/posts/xgroups/xgroups/</guid>
+        <description>&lt;img src="https://al-yl.github.io/posts/xgroups/desierosita.png" alt="Featured image of post Measuring the X-ray luminosities of DESI groups from eFEDS" /&gt;&lt;p&gt;A galaxy group is a concentration of galaxies assumed to be embedded within an extended dark matter halo, providing cosmological probes of the spatial distribution and growth history of large-scale structure.&lt;/p&gt;
+&lt;p&gt;We use the eROSITA Final Equatorial-Depth Survey (&lt;strong&gt;eFEDS&lt;/strong&gt;) to measure the rest-frame 0.1–2.4 keV band X-ray luminosities of ~ 600,000 DESI groups.&lt;/p&gt;
+&lt;h2 id=&#34;desi-group-catalog&#34;&gt;DESI Group Catalog&lt;/h2&gt;
+&lt;p&gt;The group catalog is taken from &lt;a class=&#34;link&#34; href=&#34;https://iopscience.iop.org/article/10.3847/1538-4357/abddb2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Yang et al. (2021)&lt;/a&gt;, which extended the halo-based group finder developed by &lt;a class=&#34;link&#34; href=&#34;http://dx.doi.org/10.1111/j.1365-2966.2005.08560.x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Yang et al. (2005)&lt;/a&gt; and applied it to the DESI Legacy Imaging Surveys.&lt;/p&gt;
+&lt;p&gt;This group catalogue has been further updated based on the galaxy catalogue, which has been updated to DR9, containing five-band photometries ($g$, $r$, $z$, W1, W2), with a sky coverage of ∼ 100 million groups with ∼ 120 million galaxy members having ∼ 18200 deg$^2$.&lt;/p&gt;
+&lt;p&gt;The halo mass ($M_h$) of each group has been estimated based on abundance matching between the total group luminosity and ~ 600,000 DESI groups overlaid on eFEDS footprint.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/xgroups/basicstat.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;These groups span a large redshift range of $0.0 \le z_g \le 1.0$ and (group) halo mass of $10^{10.76}h^{-1}M_\odot \le M_h \le 10^{15.0}h^{-1}M_\odot$.&lt;/p&gt;
+&lt;h2 id=&#34;the-identification-of-blind-detected-x-ray-sources&#34;&gt;The identification of Blind-detected X-ray Sources&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://iopscience.iop.org/article/10.3847/1538-4357/abddb2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Brunner et al. (2021)&lt;/a&gt;, present catalogs of 27910 (main) and 4774 (supplementary) X-ray sources detected in the 0.2–2.3 keV band. &lt;a class=&#34;link&#34; href=&#34;https://www.aanda.org/articles/aa/abs/2022/05/aa41631-21/aa41631-21.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Salvato et al. (2021)&lt;/a&gt; presented that ~ 10% blind-detected point sources (Extended Likelihood = 0) are more likely to be galactic sources.&lt;/p&gt;
+&lt;p&gt;Before measuring the count rates for each group, we cross-match the DESI groups with these blind-detected sources. We find 10932 blind-detected sources might emitted from the hot gas or AGN within groups and these sources are regarded as the X-ray center of the matched group.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/xgroups/2906.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The above figure shows an example eFEDS image (left-hand panel) for a blind-detected source (blue solid circle) overplotted with the probable DESI groups that might host it. The red solid circles show the regions within a distance of $R_{180}$ from the BGG of each candidate group. In this example, we regard the most massive one (group #2906) hosts that X-ray emission. The neighbour X-ray emission (blue-dashed circles) is also considered as part of the extended X-ray emission from the same group, while the others (grey-dashed circles) are regarded as contaminants. The red-dashed circle represents the region within a distance of $R_{180}$ but re-centred on that X-ray emission. The right-hand panel shows the corresponding DESI image. In both panels, the BGG and satellites of group #2906 are marked by magenta filled and green opened circles, respectively.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Most of the groups donot have blind-detected counterparts, their BGG are thus regarded as the X-ray center. By stacking the X-ray images of the groups that have no resolved X-ray centres, the BGG can well represent the X-ray peak of a group system, and the average surface brightness profiles roughly follow the β-model prediction.&lt;/p&gt;
+&lt;h2 id=&#34;calculate-the-count-rate-for-each-group&#34;&gt;Calculate the Count Rate for each Group&lt;/h2&gt;
+&lt;p&gt;We use two different algorithms to measure the luminosities in soft X-ray (rest-frame 0.1– 2.4 keV) band:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mean Background Subtraction&lt;/strong&gt;: Calculating a background level averaged over the annulus of $1.5 - 2.0R_{180}$ of each group. The count rates are computed via subtracting the mean background level directly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Patrol Background Subtraction&lt;/strong&gt;: Removing all of the regions enclosed by contaminants, masked pixels, and the aperture radius of DESI groups. The background level (patrol level) averaged over the remaining regions might potentially contributed by the instrument background, very distant sources, or small groups below the threshold.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The count rates computed via subtracting the patrol level suffer the projection effect. First, we assume a tentative $L_{X} − M_{h}$ relation, then generate the mock image and calculate the fraction contributed by each group. we recompute the tentative $L_{X} − M_{h}$ relation and reproduce the process iteratively.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Compact Groups of Galaxies in SDSS, GAMA, and LAMOST</title>
         <link>https://al-yl.github.io/posts/first/firstpaper/</link>
         <pubDate>Sun, 13 Nov 2022 21:40:27 +0800</pubDate>
@@ -61,111 +110,6 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The small white circles locate the group members with spectroscopic redshifts, while the small green circles label the galaxies without redshifts. The red circles represent the foreground or background galaxies.&lt;/p&gt;
-&lt;h2 id=&#34;compact-group-of-the-day-2023-calendar&#34;&gt;Compact Group of the Day: 2023 Calendar&lt;/h2&gt;
-&lt;p&gt;A DESI image (or SDSS image if no DESI image) for Genuine CG is featured each day. Note that the symbol styles are different from the above example SDSS images.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;White solid circles: the galaxy members&lt;/li&gt;
-&lt;li&gt;Red circles: fore/background galaxies&lt;/li&gt;
-&lt;li&gt;Blue circles: outliers with similar redshifts&lt;/li&gt;
-&lt;li&gt;Green circles: very bright galaxies not considered in this work (see &lt;a class=&#34;link&#34; href=&#34;https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJS/246/12&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;paper&lt;/a&gt; for details)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/January-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/February-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/March-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/April-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/May-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/June-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/July-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/August-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/September-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/October-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/November-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://al-yl.github.io/posts/first/calendar/December-2023.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
 </description>
         </item>
         
