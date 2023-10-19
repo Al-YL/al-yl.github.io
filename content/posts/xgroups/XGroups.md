@@ -47,3 +47,6 @@ We use two different algorithms to measure the luminosities in soft X-ray (rest-
 
 The count rates computed via subtracting the patrol level suffer the projection effect. First, we assume a tentative $L_{X} − M_{h}$ relation, then generate the mock image and calculate the fraction contributed by each group. we recompute the tentative $L_{X} − M_{h}$ relation and reproduce the process iteratively.
 
+After deriving the count rates for each DESI group, we convert it into soft X-ray flux by dividing the source count rates to ECF. The details can be found [here](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4909Z/abstract) and the derived catalog can be found [here](https://github.com/Al-YL/XLumsForDESIGroups/tree/main/DR9Y1_zbd).
+
+

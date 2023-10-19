@@ -44,3 +44,40 @@ Here are the example SDSS images of a genuine CG and each case of CG candidates.
 ![](/posts/first/CP4.png)
 
 The small white circles locate the group members with spectroscopic redshifts, while the small green circles label the galaxies without redshifts. The red circles represent the foreground or background galaxies. 
+
+
+## Compact Group of the Day: 2023 Calendar
+
+A DESI image (or SDSS image if no DESI image) for Genuine CG is featured each day. Note that the symbol styles are different from the above example SDSS images.
+
+- White solid circles: the galaxy members
+- Red circles: fore/background galaxies
+- Blue circles: outliers with similar redshifts
+- Green circles: very bright galaxies not considered in this work (see [paper](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJS/246/12) for details)
+
+![](/posts/first/calendar/January-2023.png)
+
+![](/posts/first/calendar/February-2023.png)
+
+![](/posts/first/calendar/March-2023.png)
+
+![](/posts/first/calendar/April-2023.png)
+
+![](/posts/first/calendar/May-2023.png)
+
+![](/posts/first/calendar/June-2023.png)
+
+![](/posts/first/calendar/July-2023.png)
+
+![](/posts/first/calendar/August-2023.png)
+
+![](/posts/first/calendar/September-2023.png)
+
+![](/posts/first/calendar/October-2023.png)
+
+![](/posts/first/calendar/November-2023.png)
+
+![](/posts/first/calendar/December-2023.png)
+
+
+

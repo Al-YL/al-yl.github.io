@@ -367,7 +367,7 @@ DESI Group Catalog The group catalog is taken from Yang et al. (2021), which ext
 
 
                 <time class="article-time--reading">
-                    3 minute read
+                    4 minute read
                 </time>
             </div>
         
@@ -423,6 +423,9 @@ DESI Group Catalog The group catalog is taken from Yang et al. (2021), which ext
 <li><strong>Patrol Background Subtraction</strong>: Removing all of the regions enclosed by contaminants, masked pixels, and the aperture radius of DESI groups. The background level (patrol level) averaged over the remaining regions might potentially contributed by the instrument background, very distant sources, or small groups below the threshold.</li>
 </ul>
 <p>The count rates computed via subtracting the patrol level suffer the projection effect. First, we assume a tentative $L_{X} − M_{h}$ relation, then generate the mock image and calculate the fraction contributed by each group. we recompute the tentative $L_{X} − M_{h}$ relation and reproduce the process iteratively.</p>
+<p>After deriving the count rates for each DESI group, we convert it into soft X-ray flux by dividing the source count rates to ECF. The details can be found <a class="link" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4909Z/abstract"  target="_blank" rel="noopener"
+    >here</a> and the derived catalog can be found <a class="link" href="https://github.com/Al-YL/XLumsForDESIGroups/tree/main/DR9Y1_zbd"  target="_blank" rel="noopener"
+    >here</a>.</p>
 
 </section>
 
