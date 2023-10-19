@@ -50,3 +50,56 @@ The count rates computed via subtracting the patrol level suffer the projection 
 After deriving the count rates for each DESI group, we convert it into soft X-ray flux by dividing the source count rates to ECF. The details can be found [here](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4909Z/abstract) and the derived catalog can be found [here](https://github.com/Al-YL/XLumsForDESIGroups/tree/main/DR9Y1_zbd).
 
 
+## Merchandise related to this paper
+
+![](/posts/xgroups/mug.jpg)
+
+![](/posts/xgroups/tshirt.jpg)
+
+
+Images in different wavebands have been created for variuos galaxy groups. You can download these images and print them on mugs or T-shirts.
+
+![](/posts/xgroups/ima/158.png)
+
+![](/posts/xgroups/ima/300.png)
+
+![](/posts/xgroups/ima/442.png)
+
+![](/posts/xgroups/ima/461.png)
+
+![](/posts/xgroups/ima/545.png)
+
+![](/posts/xgroups/ima/604.png)
+
+![](/posts/xgroups/ima/829.png)
+
+![](/posts/xgroups/ima/977.png)
+
+![](/posts/xgroups/ima/1052.png)
+
+![](/posts/xgroups/ima/1255.png)
+
+![](/posts/xgroups/ima/1407.png)
+
+![](/posts/xgroups/ima/1620.png)
+
+![](/posts/xgroups/ima/1774.png)
+
+![](/posts/xgroups/ima/1996.png)
+
+![](/posts/xgroups/ima/2302.png)
+
+![](/posts/xgroups/ima/2531.png)
+
+![](/posts/xgroups/ima/2623.png)
+
+![](/posts/xgroups/ima/2704.png)
+
+![](/posts/xgroups/ima/2881.png)
+
+![](/posts/xgroups/ima/2906.png)
+
+![](/posts/xgroups/ima/3153.png)
+
+![](/posts/xgroups/ima/3263.png)
+
