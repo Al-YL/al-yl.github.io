@@ -7,12 +7,37 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
         <lastBuildDate>Mon, 02 Jun 2025 10:37:27 +0800</lastBuildDate><atom:link href="https://al-yl.github.io/tags/super-massive-black-holes/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Learning Notes: Little Red Dots (2025 Vol.15)</title>
+        <title>Literature Reading Notes: Little Red Dots (2025 Vol.15)</title>
         <link>https://al-yl.github.io/posts/note2515/lrd/</link>
         <pubDate>Mon, 02 Jun 2025 10:37:27 +0800</pubDate>
         
         <guid>https://al-yl.github.io/posts/note2515/lrd/</guid>
-        <description>&lt;img src="https://al-yl.github.io/posts/note2515/AGN-Torus.jpg" alt="Featured image of post Learning Notes: Little Red Dots (2025 Vol.15)" /&gt;&lt;h2 id=&#34;what-is-little-red-dots-&#34;&gt;What is Little Red Dots ?&lt;/h2&gt;
+        <description>&lt;img src="https://al-yl.github.io/posts/note2515/AGN-Torus.jpg" alt="Featured image of post Literature Reading Notes: Little Red Dots (2025 Vol.15)" /&gt;&lt;p&gt;Since 2024, a large number of images captured by the James Webb Space Telescope (JWST) have continuously revealed a surprising phenomenon: in the first few hundred million years after the birth of the first galaxies, there existed numerous mysterious objects known as &amp;ldquo;Little Red Dots.&amp;rdquo;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img 
+    src=&#34;https://al-yl.github.io/posts/note2515/Kokorev&amp;#43;2401.09981.png&#34; 
+    alt=&#34;LRD&#34; 
+    width=&#34;70%&#34;
+    
+  &gt;
+  &lt;figcaption&gt;
+    From &lt;a href=&#39;https://arxiv.org/pdf/2401.09981&#39;&gt;Kokorev et al. (2024)&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;From the above image, these objects indeed appear as individual “little red dots.” However, it is important to note that the JWST captures images in the infrared band. The “little red dots” we see are mostly “false-color” images created by combining monochromatic images from three bands above 2.5 microns, with blue, green, and red assigned to short, medium, and long wavelengths, respectively, to produce the composite color image.&lt;/p&gt;
+&lt;p&gt;However, if we use JWST’s short-wavelength infrared bands, such as 1.15 microns (F115W), 1.5 microns (F150W), and 2 microns (F200W), and assign colors from short to long wavelength as blue/green/red, these “little red dots” would actually appear as “little blue dots.”&lt;/p&gt;
+&lt;p&gt;It is important to emphasize, though, that the infrared radiation we see from them actually originates in their ultraviolet and optical emissions. Their high redshifts are what shift this light into the infrared bands for our observation. In fact, the spectra of these little red dots generally exhibit a V-shaped profile, as if two radiation components dominate: one in the ultraviolet, and the other in the infrared.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/aizrg1CA5DE&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;what-is-little-red-dots-&#34;&gt;What is Little Red Dots ?&lt;/h2&gt;
 </description>
         </item>
         

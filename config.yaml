@@ -1,7 +1,7 @@
 baseurl: https://al-yl.github.io/
 languageCode: zh-CN
 theme: hugo-theme-stack
-paginate: 5
+paginate: 10
 title: Yunliang Zheng's Homepage
 publishDir: "docs"
 
@@ -37,8 +37,6 @@ menu:
           params:
             icon: home
             newTab: true
-
-
 
 params:
     mainSections:
