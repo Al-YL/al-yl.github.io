@@ -46,7 +46,9 @@ Here are the example SDSS images of a genuine CG and each case of CG candidates.
 The small white circles locate the group members with spectroscopic redshifts, while the small green circles label the galaxies without redshifts. The red circles represent the foreground or background galaxies. 
 
 
-## Compact Group of the Day: 2023 Calendar
+## Compact Group of the Day
+
+### 2023 Calendar
 
 A DESI image (or SDSS image if no DESI image) for Genuine CG is featured each day. Note that the symbol styles are different from the above example SDSS images.
 
@@ -79,5 +81,54 @@ A DESI image (or SDSS image if no DESI image) for Genuine CG is featured each da
 
 ![](/posts/first/calendar/December-2023.png)
 
+### 2024 Calendar
 
+![](/posts/first/calendar/January-2024.png)
 
+![](/posts/first/calendar/February-2024.png)
+
+![](/posts/first/calendar/March-2024.png)
+
+![](/posts/first/calendar/April-2024.png)
+
+![](/posts/first/calendar/May-2024.png)
+
+![](/posts/first/calendar/June-2024.png)
+
+![](/posts/first/calendar/July-2024.png)
+
+![](/posts/first/calendar/August-2024.png)
+
+![](/posts/first/calendar/September-2024.png)
+
+![](/posts/first/calendar/October-2024.png)
+
+![](/posts/first/calendar/November-2024.png)
+
+![](/posts/first/calendar/December-2024.png)
+
+### 2025 Calendar
+
+![](/posts/first/calendar/January-2025.png)
+
+![](/posts/first/calendar/February-2025.png)
+
+![](/posts/first/calendar/March-2025.png)
+
+![](/posts/first/calendar/April-2025.png)
+
+![](/posts/first/calendar/May-2025.png)
+
+![](/posts/first/calendar/June-2025.png)
+
+![](/posts/first/calendar/July-2025.png)
+
+![](/posts/first/calendar/August-2025.png)
+
+![](/posts/first/calendar/September-2025.png)
+
+![](/posts/first/calendar/October-2025.png)
+
+![](/posts/first/calendar/November-2025.png)
+
+![](/posts/first/calendar/December-2025.png)
