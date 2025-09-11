@@ -30,4 +30,6 @@ In short, these LRDs turn out to be far too massive: as early as when the Univer
 
 It is worth noting that at such an early stage of the Universe, the mere fact that some galaxies had already grown to this size is enough to challenge current theories of galaxy formation, yet the growth of their central SMBHs appears to be even more extreme.
 
+{{< fig src="/posts/note2515/Maiolino+2305.12492.png" alt="LRD" width="80%" caption="From <a href='https://arxiv.org/pdf/2305.12492'>Maiolino et al. (2023)</a>" >}}
+
 {{< youtube aizrg1CA5DE >}}
