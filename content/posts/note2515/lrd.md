@@ -20,6 +20,8 @@ It is important to emphasize, though, that the infrared radiation we see from th
 
 {{< fig src="/posts/note2515/Kokorev+2401.09981.png" alt="LRD" width="70%" caption="From <a href='https://arxiv.org/pdf/2401.09981'>Kokorev et al. (2024)</a>" >}}
 
-According to subsequent observational evidence, these “Little Red Dots” are in fact accreting supermassive black holes at the centers of galaxies. In fact, nearly every galaxy hosts a supermassive black hole at its center. Take our own Milky Way, for example: the central black hole has 4.3 million solar mass, while the stellar mass is about 52 billion solar masses.
+According to subsequent observational evidence, these “Little Red Dots” are in fact accreting supermassive black holes (SMBHs) at the centers of galaxies. In fact, nearly every galaxy hosts a SMBH at its center. Take our own Milky Way, for example: the central SMBH has 4.3 million solar mass, while the stellar mass is about 52 billion solar masses.
+
+SMBHs at the centers of galaxies usually grow together with their host galaxies. For instance, when two galaxies merge, the black holes at their centers will eventually coalesce into a larger one. Thus, from an overall trend, the closer we look to the present day (i.e., later cosmic times), the more massive black holes tend to be. This indicates that black hole growth is a gradual, cumulative process. At least before the launch of the James Webb Space Telescope (JWST), it was widely believed that this growth in mass should be relatively slow, requiring billions of years of cosmic evolution.
 
 {{< youtube aizrg1CA5DE >}}
