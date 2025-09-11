@@ -28,8 +28,8 @@ SMBHs at the centers of galaxies usually grow together with their host galaxies.
 
 In short, these LRDs turn out to be far too massive: as early as when the Universe was less than 500 million years old, some SMBHs had already reached few tens million to even a hundred million solar masses, and these are not isolated cases; even more strikingly, the stellar mass of their host galaxies just over a billion solar masses.
 
-It is worth noting that at such an early stage of the Universe, the mere fact that some galaxies had already grown to this size is enough to challenge current theories of galaxy formation, yet the growth of their central SMBHs appears to be even more extreme.
+It is worth noting that at such an early stage of the Universe, not a very few galaxies had already grown to enough massive to challenge current theories of galaxy formation, yet the growth rate of their central SMBHs appears to be even more extreme.
 
-{{< fig src="/posts/note2515/Maiolino+2305.12492.png" alt="LRD" width="80%" caption="From <a href='https://arxiv.org/pdf/2305.12492'>Maiolino et al. (2023)</a>" >}}
+{{< fig src="/posts/note2515/Maiolino+2305.12492.png" alt="LRD" width="80%" caption="The relative ratio of SMBH mass to stellar mass in many high redshift galaxies is exceedingly large compared with that in the local Universe. From <a href='https://arxiv.org/pdf/2305.12492'>Maiolino et al. (2023)</a>" >}}
 
 {{< youtube aizrg1CA5DE >}}
