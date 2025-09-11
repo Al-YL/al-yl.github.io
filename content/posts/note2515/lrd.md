@@ -20,6 +20,6 @@ It is important to emphasize, though, that the infrared radiation we see from th
 
 {{< fig src="/posts/note2515/Kokorev+2401.09981.png" alt="LRD" width="70%" caption="From <a href='https://arxiv.org/pdf/2401.09981'>Kokorev et al. (2024)</a>" >}}
 
-{{< youtube aizrg1CA5DE >}}
+According to subsequent observational evidence, these “Little Red Dots” are in fact accreting supermassive black holes at the centers of galaxies. In fact, nearly every galaxy hosts a supermassive black hole at its center. Take our own Milky Way, for example: the central black hole has 4.3 million solar mass, while the stellar mass is about 52 billion solar masses.
 
-## What is Little Red Dots ?
+{{< youtube aizrg1CA5DE >}}
