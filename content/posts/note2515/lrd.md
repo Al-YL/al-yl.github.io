@@ -24,12 +24,20 @@ According to subsequent observational evidence, these “Little Red Dots” (LRD
 
 SMBHs at the centers of galaxies usually grow together with their host galaxies. For instance, when two galaxies merge, the black holes at their centers will eventually coalesce into a larger one. Thus, from an overall trend, the closer we look to the present day (i.e., later cosmic times), the more massive black holes tend to be. This indicates that black hole growth is a gradual, cumulative process. At least before the launch of the James Webb Space Telescope (JWST), it was widely believed that this growth in mass should be relatively slow, requiring billions of years of cosmic evolution.
 
-## New evidence from JWST
+## Challenges Posed by JWST
 
 In short, these LRDs turn out to be far too massive: as early as when the Universe was less than 500 million years old, some SMBHs had already reached few tens million to even a hundred million solar masses, and these are not isolated cases; even more strikingly, the stellar mass of their host galaxies just over a billion solar masses.
 
 It is worth noting that at such an early stage of the Universe, not a very few galaxies had already grown to enough massive to challenge current theories of galaxy formation, yet the growth rate of their central SMBHs appears to be even more extreme.
 
 {{< fig src="/posts/note2515/Maiolino+2305.12492.png" alt="LRD" width="80%" caption="The relative ratio of SMBH mass to stellar mass in many high redshift galaxies is exceedingly large compared with that in the local Universe. From <a href='https://arxiv.org/pdf/2305.12492'>Maiolino et al. (2023)</a>" >}}
+
+## Possible Solutions
+
+So why are these SMBHs able to grow so quickly? This has indeed become a major puzzle, and at present there are two main lines of thought to address it.
+
+### Unknown Mechanisms
+
+### Massive Seed BHs
 
 {{< youtube aizrg1CA5DE >}}
