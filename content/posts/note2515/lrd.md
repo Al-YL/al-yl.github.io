@@ -38,7 +38,15 @@ So why are these SMBHs able to grow so quickly? This has indeed become a major p
 
 ### Unknown Mechanisms
 
+
 ### Massive Seed BHs
+
+The formation of LRDs are very different from the ordinary BHs we currently observe. Most of the BHs we detect today are formed from massive stars that undergo supernova explosions and eventually collapse. These “stellar-mass BHs,” even if they start with a relatively large mass, typically reach only a few hundred solar masses at most, and they also lose a significant fraction of their mass during the supernova explosion.
+
+Growing from a few tens of solar masses to tens or hundreds of millions of solar masses within a few hundred million years sounds quite extraordinary. This has led some to suggest that these BHs were not remnants of ordinary massive stars to begin with, but instead formed directly as “primordial black holes”, with initial masses as high as 100,000 solar masses or more. In that case, growing from 100,000 to tens of millions of solar masses within a few hundred million years would seem less implausible.
+
+{{< fig src="/posts/note2515/Natarajan+2308.02654.png" alt="LRD" caption="From <a href='https://arxiv.org/pdf/2308.02654'>Natarajan et al. (2023)</a>" >}}
+
 
 ### Just a Miscalculation
 
