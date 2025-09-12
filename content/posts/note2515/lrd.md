@@ -38,6 +38,8 @@ So why are these SMBHs able to grow so quickly? This has indeed become a major p
 
 ### Unknown Mechanisms
 
+They really do grow rapidly, due to some unknown mechanisms that can enable stellar mass BHs to accrete mass at astonishing rates. In other words, our past understanding of BH accretion efficiency was simply incomplete.
+
 
 ### Massive Seed BHs
 
@@ -46,6 +48,8 @@ The formation of LRDs are very different from the ordinary BHs we currently obse
 Growing from a few tens of solar masses to tens or hundreds of millions of solar masses within a few hundred million years sounds quite extraordinary. This has led some to suggest that these BHs were not remnants of ordinary massive stars to begin with, but instead formed directly as “primordial black holes”, with initial masses as high as 100,000 solar masses or more. In that case, growing from 100,000 to tens of millions of solar masses within a few hundred million years would seem less implausible.
 
 {{< fig src="/posts/note2515/Natarajan+2308.02654.png" alt="LRD" caption="From <a href='https://arxiv.org/pdf/2308.02654'>Natarajan et al. (2023)</a>" >}}
+
+However, so far there is no strong observational evidence supporting this scenario. 
 
 
 ### Just a Miscalculation
