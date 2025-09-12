@@ -1,5 +1,5 @@
 ---
-title: "Literature Reading Notes: Little Red Dots (2025 Vol.15)"
+title: "Literature Reading Notes (#2025V15): Little Red Dots"
 date: 2025-06-02T10:37:27+08:00
 image: "/posts/note2515/AGN-Torus.jpg"
 categories:
@@ -34,10 +34,12 @@ It is worth noting that at such an early stage of the Universe, not a very few g
 
 ## Possible Solutions
 
-So why are these SMBHs able to grow so quickly? This has indeed become a major puzzle, and at present there are two main lines of thought to address it.
+So why are these SMBHs able to grow so quickly? This has indeed become a major puzzle, and at present there are three main lines of thought to address it.
 
 ### Unknown Mechanisms
 
 ### Massive Seed BHs
+
+### Just a Miscalculation
 
 {{< youtube aizrg1CA5DE >}}
