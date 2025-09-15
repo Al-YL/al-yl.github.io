@@ -1,5 +1,5 @@
 ---
-title: "Literature Reading Notes (#2025V23/27/34): 3I/ATLAS"
+title: "Literature Reading Notes (#25023): 3I/ATLAS"
 date: 2025-09-03T20:05:11+08:00
 image: "/posts/note2523/3I-ATLAS-Hubble.png"
 categories:

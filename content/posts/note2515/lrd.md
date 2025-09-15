@@ -1,6 +1,6 @@
 ---
-title: "Literature Reading Notes (#2025V15): Little Red Dots"
-date: 2025-06-02T10:37:27+08:00
+title: "Literature Reading Notes (#25015): Little Red Dots"
+date: 2025-06-01T10:37:27+08:00
 image: "/posts/note2515/AGN-Torus.jpg"
 categories:
     - Astronomy Notes
@@ -54,4 +54,3 @@ However, so far there is no strong observational evidence supporting this scenar
 
 ### Just a Miscalculation
 
-{{< youtube aizrg1CA5DE >}}
